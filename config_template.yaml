@@ -1,0 +1,7 @@
+SERVER_PORT: 8000
+MONGO:
+  HOST: 127.0.0.1
+  USERNAME: admin
+  PASSWORD: admin
+  DATABASE: test
+  PORT: 27017
